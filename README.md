@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Moshe03
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Machine Learning and Data Analytics via Data Science of Nigeria and Google Data Analysis Professional Certificate
-- 💞️ I’m looking to collaborate on various project that can increase m y knowledge in Data Cleaning, Visualization, Analytics and the usage of various tools like R, tableau, Power BI, Python, SQL etc. Also i would be glad to work on any internship position that will help sharpen my Data Analytics skills set.
-- 📫 You can reach me via my email- okunlolamoses703@gmail.com
+## Hi, I'm Moses 👋
 
-<!---
-Moshe03/Moshe03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a data analyst with around seven years' experience in compensation, benefits, and payroll analytics, now focused on decision-focused data analytics and people analytics. I'm completing a Master's in Economic Intelligence (Behavioural & Digital Economics) and building a portfolio that turns messy HR and business data into decisions leaders can act on.
+
+🔧 **What I work with**
+Power BI · DAX · Excel/Power Query · SQL · Python (pandas) 
+
+🤖 **AI in my workflow**
+
+I use AI tools (Claude, ChatGPT) to accelerate analysis, prototype faster, and build LLM-assisted workflows, while keeping judgment, validation, and interpretation my own.
+
+📊 **What I care about**
+Clean, well-documented analysis; translating numbers into business language; and handling sensitive data (especially people data) responsibly.
+
+### Featured project
+
+**[NovaTech Workforce Attrition Analysis](https://github.com/Moshe03/Novatech-Attrition-Analysis)** is an end-to-end people analytics project on a 1,200-employee firm: Python cleaning, a four-page Power BI dashboard, cost modelling, and an intersectional diversity view with small-sample suppression. Includes the notebook, data, dashboard file, and a full write-up.
+
+*More projects on the way: e-commerce customer analysis, spend analysis, and a retail performance intelligence system with Excel Power Query.*
+
+📫 **Reach me:** okunlolamoses703@gmail.com
